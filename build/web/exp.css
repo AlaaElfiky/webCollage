@@ -1,0 +1,495 @@
+@charset "utf-8";
+/* CSS Document */
+.history{
+color:#06F;
+font-size:30px;
+font-weight:lighter;	
+padding:5px;
+padding-bottom:5px;
+text-align:right;	
+	}
+.history1{
+		text-align:right;
+    padding: 10px;
+		}
+#high{
+	
+	height:600px;
+	
+	}
+.activity{
+	width:80% ;
+	height:100px;
+	margin:20px;
+	padding-top:20px;
+
+	
+	}
+	.activities{
+		background-color:#FFF;
+	
+		}
+	.hh4{
+        margin-right: 15px;
+	text-align:right;
+	color:#666;	
+		}
+ .history2{
+	 
+	 text-align:right;
+	 
+	 }
+	 #co{
+		text-align:right;
+		font-size:16px; 
+		 
+		 }
+		 .hh1{
+			 text-align:right;
+			
+			 }
+.dd{
+background-color:#FFF;
+width:85%
+height:250px;
+text-align:right;
+	}
+	
+ 
+			 
+.ad{
+	width:85%;
+	height:200px;
+	background-color:#FFF;
+	text-align:right;
+	margin-right:35px;
+	margin-left:100px;
+	
+
+	}
+	.act.h1{
+		font:Georgia, "Times New Roman", Times, serif;
+		font-size:36px ;
+		text-shadow:#CCC;
+		text-align:right;
+		padding-right:5px;
+		padding-top:10px;
+		padding-top:5px;
+		padding-bottom:5px;
+		margin-right:5px;
+		margin-top:5px;
+		
+		}
+		
+	.act.p{
+		text-align:right;
+		font-size:18px;
+		
+		}
+		#hhr{
+			background:#999;
+			
+			}
+			
+.aa{
+	text-align:right;
+	}
+.stu_h1{
+	padding:5px;
+	text-align:center;
+	font-size:33px;
+	
+	
+	}
+	
+	
+.pp{
+	padding:5px;
+	font-weight:normal;
+	text-align:right;
+	font-size:18px;
+	}
+	dm-title{
+	text-align:right;	
+		
+		}
+		
+.div-container{
+	background-size:cover;
+	background-color:#F5EFFC;
+	width:70%;
+	height:650px;
+	margin-left:200px;
+    margin-top: 5px;
+	text-align:center;
+	
+	
+	
+	}
+.dive-container{
+   
+	background-color:#F5EFFC;
+	width:70%;
+	height:430px;
+	margin-left:200px;
+    margin-top: 5px;
+	text-align:center;
+    padding-right: 15px;
+
+}
+.div-img{
+	
+	float:left;
+	width:35%;
+	height:630px;
+	margin-left:10px;
+	margin-top:10px;
+	
+	}
+ .div-data{
+	 float:right;
+	 width:55%;
+	 height:580px;
+	 text-align:right;
+	 margin-top:10px;
+	 margin-right:40px;
+	 padding-top:5px;
+	 font-size:18px;
+	
+	 
+	 }
+	.hdata{
+		text-align:right;
+		font-weight:bold;
+		
+		
+		}
+		.h2data{
+			text-align:right;
+			}
+
+
+.new_div{
+	
+	
+		width:400px;
+		height:430px;
+		text-align:center;
+		background-color:#ffffff;
+		float:left;
+		margin-left:20px;
+		margin-top:10px;
+	}
+ 
+ .div_new{
+	 
+	  width:100%;
+		 height:430px;
+		 margin-bottom:20px;
+   
+	 
+	 }	
+		
+.new1{
+	width:380px;
+		height:200px;
+		text-align:center;
+		margin-top:10px;
+		margin-left:10px;
+
+	
+	}
+
+.new2{
+	width:380px;
+			text-align:right;
+            height:220px;			
+			margin-top:20px;
+			margin-left:10px;
+	}
+	.new{
+		width:400px;
+		height:430px;
+		text-align:right;
+		background-color:#FFF;
+		float:left;
+		margin-left:60px;
+		margin-top:10px;
+		}
+	
+	
+	
+	.div_collage{
+		 width:100%;
+		 height:530px;
+		 margin-bottom:20px;
+		 
+		
+		}
+			
+	.collage{
+		width:400px;
+		height:550px;
+		text-align:right;
+		background-color:beige;
+		float:left;
+		margin-left:60px;
+		margin-top:10px;
+        margin-bottom: 5px;
+		
+		}
+	.collage_div{
+		
+		width:400px;
+		height:550px;
+		text-align:center;
+		background-color:beige;
+		float:left;
+		margin-left:20px;
+		margin-top:10px;
+        margin-bottom: 5px;
+		
+		}
+			
+	.collage1{
+		width:380px;
+		height:200px;
+		text-align:center;
+		margin-top:10px;
+		margin-left:10px;
+		
+		}
+		
+		.collage2{
+			width:380px;
+			text-align:right;
+            height:320px;			
+			margin-top:20px;
+			margin-left:10px;
+	         		
+			}
+
+
+
+.image{
+
+    
+    width: 95%;
+    height: 500px;
+    margin-left: 20px;
+    margin-left: 30px;
+    margin-top: 1px;
+    text-align: center;
+}
+.imag{
+width: 100%;
+    height: 320px;
+
+}
+.about_image{
+width: 98%;
+    text-align: center;
+    margin-left: 10px;
+    height: 500px;
+    margin-top: 1px;
+    
+
+}
+
+.act{
+
+    width: 85%;
+    height: 655px;
+    margin:20px;
+	background-color: white;
+    margin-left: 95px;
+
+}
+.activ{
+    width: 42%;
+    height: 640px;
+    float: left;
+    margin-top: 5px;
+    margin-left: 40px;
+  background-color: beige;
+    
+
+}
+
+.tab{
+float: right;
+    text-align: right;
+    margin-right: 10px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+
+}
+
+.tab1{
+     font-style: oblique;
+    font-size: 25px;
+
+}
+
+
+.tab2{
+width: 80%;
+    height: 600px;
+    margin-left: 130px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+
+}
+
+.result{
+height: 50px;
+    border: 1px solid gray;
+
+}
+
+.result2{
+    margin-top: 20px;
+
+    text-align: right;
+    width: 100%;
+    float:right;
+    height: 200px;
+}
+.inp{
+
+    text-align: right;
+    float: right;
+    margin-right: 10px;
+    height: 35px;
+}
+.men{
+height:auto;
+width: 50%;
+background-color: #F5EFFC;
+float: right;
+
+margin-right: 100px;
+    margin-top: 45px;
+}
+
+.m{
+border-bottom: 4px solid blue;
+    width:300px;
+    background-color: #F5EFFC;
+   margin-left: 15px;
+    font-size: 18px;
+    font-style: italic;
+    padding-top: 5px;
+}
+#m{
+border-bottom: 4px solid blue;
+    width:300px;
+    background-color: #F5EFFC;
+   margin-left: 15px;
+    font-size: 18px;
+    font-style: italic;
+    padding-top: 5px;
+    margin-left: 120px;
+}
+.mm{
+    width:300px;
+    background-color: #FCFAFE;
+      padding-top: 5px;
+    margin-left: 120px;
+ 
+    
+    
+}
+#mm{
+  background-color: #F5EFFC;
+    text-align: left;
+}
+.mmm{
+    width: 800px;
+    margin-left: 280px;
+text-align: center;
+    margin-top: 5px;
+    border-bottom: 1px solid blue;
+
+}
+#mmm{
+  background-color: #F5EFFC;
+    width: 300px;
+    margin-top: 10px;
+    color: blue;
+    font-size: 20px;
+    
+
+}
+.me{
+border-bottom: 4px solid blue;
+    width: 200px;
+    background-color: #F5EFFC;
+    font-size: 18px;
+    font-style: italic;
+    padding-top: 5px;
+}
+
+#me{
+width:200px;
+height: 200px;
+background-color:#F5EFFC;
+border-right: 3 px  solid gray ;
+font-size: 20px;
+color: blue;
+padding-top: 5px;
+    
+
+
+}
+.menu{
+width: 350px;
+ height: 280px;
+background-color: white;
+padding: 5px;
+    margin-top: 50px;
+    margin-left: 100px;
+
+}
+
+.s{
+ 
+  width: 75%;
+  margin-top: 10px;
+  height: 420px;
+  margin-left: 200px;
+  margin-left: 150px;
+  background-color:#F5EFFC;
+
+}
+.ss{
+width: 40%;
+    height: 380px;
+    float: right;
+    margin-top: 10px;
+    margin-right: 5px;
+
+}
+.sss{
+width: 45%;
+    height: 380px;
+    float: left;
+    margin-top: 20px;
+    margin-left: 20px;
+    
+}
+#admin{
+width: 200px;
+    float:right;
+    text-align: right;
+    margin-left: 250px;
+
+}
+
+
+
+
+	
+		
+			
+

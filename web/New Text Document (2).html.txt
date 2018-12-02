@@ -1,0 +1,280 @@
+<%-- 
+    Document   : Student1
+    Created on : May 1, 2016, 6:56:22 PM
+    Author     : m7md
+--%>
+
+
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+         <title>ﬂ·Ì… «·Õ«”»«  Ê«·„⁄·Ê„«  Ã«„⁄… «·„‰Ê›Ì…</title>
+
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+  <!-- http://www.456bereastreet.com/archive/201209/tell_css_that_javascript_is_available_asap/ -->
+  <script>
+    document.documentElement.className = document.documentElement.className.replace(/(\s|^)no-js(\s|$)/, '$1js$2');
+  </script>
+  
+  <!-- CSS Files -->
+  <link rel="stylesheet" href="css/bootstrap.css">
+    <link rel="stylesheet" href="css/boot.css">
+       <link rel="stylesheet" href="css/exp.css">
+  <link rel="stylesheet" href="style.css">
+  <link rel="stylesheet" href="css/checked.css">
+  <link rel="shortcut icon" href="favicon.ico"> 
+  <link rel="stylesheet" href="rs-plugin/css/settings.css">
+  <!--[if IE 7]>
+    <link rel="stylesheet" href="css/font-awesome-ie7.min.css">
+  <![endif]-->
+
+  <!--[if lt IE 9]>
+    <script src="js/html5shiv.min.js"></script>
+  <![endif]-->
+   <script src="js/modernizr.custom.js"></script>
+    
+    
+    
+
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.0/jquery.min.js"></script>
+  <script src="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js"></script>
+
+    
+
+
+
+</head>
+   <body  class="home">
+<!-- Preloader -->
+<div id="preloader">
+	<div id="status">&nbsp;
+    </div>
+</div>
+            
+	<header id="dmheader">
+		<div class="container">
+            <div id="dmtop"
+                <a class="cssLogo" href="index-1.html">
+          <!--  <span class="glyphicon glyphicon-education" aria-hidden="true"></span>-->
+            <img src="images/logo5.png" alt=""/></a>
+                    <nav  align="right" id="cp-nav">
+                        <ul class="flexnav" style="alignment-adjust:middle" data-breakpoint="800">
+                           <li > <a  href="contact.html"> « ’· »‰« </a></li>
+                              <li > <a  href="e-portal.html"> «Ï-»Ê— «· </a></li>
+                            </li>
+                            <li><a href="#">«·Œœ„«  </a>
+                                <ul>
+                                    
+                                      <li><a href="result.html">«·‰ ÌÃ… </a></li>
+                                    <li><a href="student-5.html">«·Ãœ«Ê· «·œ—«”Ì…  </a></li>
+                                     
+                                    <li><a href="shop.html"> ÂÌ∆… «·œ—«”«  «·⁄·Ì«</a></li>
+                                     <li><a href="single-shop.html">Œœ„… —⁄«Ì… «·‘»«»</a></li>
+                                </ul>
+                            <li>
+                            <li><a href="">«·«‰‘ÿ…</a>
+                                <ul class="ansh">
+                                    <li><a href="blog-1.html">Àﬁ«›Ï </a></li></br>
+<!--                                    <li><a href="blog-6.html"> «”— Ê—Õ·«  </a></li></br>-->
+                                  <li><a href="blog-2.html">«Ã „«⁄Ï</a></li></br>
+                                   <li><a href="blog-4.html">⁄·„Ï Ê ﬂ‰Ê·ÊÃÏ</a></li></br>
+                                    <li><a href="blog-7.html"> ›‰Ï </a></li></br>
+                                 <li><a href="blog-5.html">ÃÊ«·… ÊŒœ„… ⁄«„Â</a></li></br>
+                                    <li><a href="blog-3.html">—Ì«÷Ï </a></li></br>
+                                </ul>
+                            </li>
+                            <li><a href="fullwidth.html">«·«Œ»«—</a>
+                            </li>
+                            <li><a href="#">ÂÌ∆… «· œ—Ì”</a>
+                                <ul>
+                                    <li><a href="pricing-tables.html">ﬁ”„ ⁄·Ê„ «·Õ«”»</a></li>
+                                    <li><a href="icons.html">ﬁ”„ ‘»ﬂ«  «·Õ«”»</a></li>
+                                    <li><a href="columns.html">ﬁ”„ ‰Ÿ„ «·„⁄·Ê„«  </a></li>
+                             
+                                </ul>
+                            </li>
+                            <li><a href="faq.html">⁄‰ «·ﬂ·Ì…</a>
+                            </li>
+                             <li><a href="#">«·√ﬁ”«„</a>
+                                <ul>
+                                    <li><a href="shortcodes.html">ﬁ”„ ⁄·Ê„ «·Õ«”» </a></li>
+                                    <li><a href="portfolio-without-filter.html">ﬁ”„ ‰Ÿ„ «·„⁄·Ê„«  </a></li>
+                                    <li><a href="portfolio-single-1.html">ﬁ”„ ‘»ﬂ«  «·Õ«”» </a></li>
+                                    <li><a href="portfolio-single-2.html">ﬁ”„ »ÕÊÀ «·⁄„·Ì« </a></li>
+                                </ul>
+                            </li>
+                             <li><a href="login.html"> ”ÃÌ· «·œŒÊ·</a>
+                            </li>
+                            <li class="current"><a href="index.html">«·—∆Ì”Ì…</a>
+                                    <ul>
+                                        <li><a href="index-3.html">‘«‘… ’€Ì—… </a></li>
+                                    </ul>
+                            </li>
+                           
+                            
+                        </ul>
+                    </nav><!-- end #cp-nav -->	
+			</div><!-- /dmtop -->
+		</div><!-- /container -->
+	</header><!-- /dmheader -->   
+
+
+  
+
+        <div class="border">
+            <ul class="nav nav-pills nav-stacked" id="me" >
+
+                <li><a href="about_student.jsp" >«”„ «·ÿ«·»</a></li> 
+                <hr/>
+                <li><a href="material.jsp"> «·„ÿ·Ê»                    </a></li> 
+                <hr/>
+
+                <li><a href="Project1.jsp">«·„‘—Ê⁄    </a></li>
+                <hr/>
+
+                <li><a href="Source_material.jsp">«·„«œ…     </a></li>
+                <hr/>
+
+                <li><a href="afterLogin">«·„‰«ﬁ‘…    </a></li>
+                <hr/>
+
+                <li><a href="Student_contect.jsp">«·« ’«· »«·«œ«—…    </a></li>
+                <hr/>
+
+                <li><a href="afterLogin" >«·”Ã· «·œ—«”Ì     
+                   
+                    </a>
+                    
+
+                </li>
+                <br>
+
+            </ul>
+
+        </div>
+         
+        </div>
+        <div class="col-md-3 footer-grid" style="margin-top: 50px  ; direction: rtl;color: red; font-size: 26px">
+         <b>„—Õ»« »ﬂ Ì« ›Ì „Êﬁ⁄ Õ«”»«  <br><br>
+                  
+     
+
+                  </div>
+    
+<br>
+
+ 
+
+<div class="footer" style="margin-top:450px">
+	<div class="container" >
+		<div class="footer-grids">
+			<div class="col-md-3 footer-grid">
+				<h2>ÂÌ∆… «· œ—Ì”</h2>
+				<ul>
+					<li><a href="#">«·œﬂ« —…</a></li>
+					<li><a href="#">«·„⁄ÌœÌ‰</a></li>
+					<li><a href="#">‘∆Ê‰ «·ÿ·«»</a></li>
+					<li><a href="#">—⁄«Ì… «·‘»«»</a></li>
+					<li><a href="#">«·ÂÌ∆… «·„⁄«Ê‰…</a></li>
+				</ul>
+			</div>
+			<div class="col-md-3 footer-grid">
+				<h2> √‰‘ÿ… «·ﬂ·Ì…</h2>
+				<ul>
+					<li><a href="#">‰‘«ÿ Àﬁ«›Ï</a></li>
+					<li><a href="#">‰‘«ÿ «Ã „«⁄Ï</a></li>
+					<li><a href="#">‰‘«ÿ —Ì«÷Ï</a></li>
+					<li><a href="#">‰‘«ÿ ›‰Ï </a></li>
+					<li><a href="#">√”— Ê—Õ·« </a></li>
+				</ul>
+			</div>
+			<div class="col-md-3 footer-grid">
+				<h2>√ﬁ”«„ «·ﬂ·Ì…</h2>
+				<ul>
+					<li><a href="#">⁄·Ê„ «·Õ«”»</a></li>
+					<li><a href="#">‰Ÿ„ «·„⁄·Ê„« </a></li>
+					<li><a href="#"> ﬂ‰Ê·ÊÃÌ« «·„⁄·Ê„« </a></li>
+					<li><a href="#">»ÕÊÀ «·⁄„·Ì« </a></li>
+					<li><a href="#">„⁄«„· „ Œ’’… </a></li>
+				</ul>
+			</div>
+			<div class="col-md-3 footer-grid">
+				<h2>⁄‰ «·ﬂ·Ì…</h2>
+				<ul>
+					<li><a href="#"> «—ÌŒ «·ﬂ·Ì… </a></li>
+					<li><a href="#">—ƒÌ… «·ﬂ·Ì…</a></li>
+					<li><a href="#">√Âœ«› «·ﬂ·Ì…</a></li>
+					<li><a href="#">—”«·… «·ﬂ·Ì…</a></li>
+					<li><a href="#">«‰Ã«“«  «·ﬂ·Ì…</a></li>
+				</ul>
+			</div>
+			<div class="clearfix"></div>
+		</div>
+	</div>
+</div>         
+	<div id="lastcontainer">
+    	<div class="container">
+			<p>Copyright © 2016 All Rights Reserved | Design by Team .</p>
+        </div><!-- /container -->
+	</div><!-- /lastcontainer -->
+    
+<div class="dmtop">Scroll to Top</div>
+</div><!-- /wrapper -->
+
+	
+   <!-- ALL PLUGINS -->
+   <script src="js/jquery.js"></script>
+   <!-- RS PLUGINS -->
+   <script type="text/javascript" src="rs-plugin/js/jquery.themepunch.plugins.min.js"></script>
+   <script type="text/javascript" src="rs-plugin/js/jquery.themepunch.revolution.min.js"></script>
+   <script type="text/javascript">
+		var revapi;
+		jQuery(document).ready(function() {
+			   revapi = jQuery('.tp-banner').revolution(
+				{
+				
+				delay:9000,
+				startwidth:1170,
+				startheight:530,
+				hideThumbs:10,
+				fullWidth:"on",
+				forceFullWidth:"on",
+				navigationType:"none",
+				navigationStyle:"round",
+				touchenabled:"on",
+				onHoverStop:"off",
+				shadow:0,
+				stopLoop:"off",
+				stopAfterLoops:-1,
+				stopAtSlide:-1,
+				shuffle:"off",
+				});
+		});
+	</script>
+
+   <script src="js/bootstrap.min.js"></script>
+   <script src="js/jquery.prettyPhoto.js"></script>
+   <script src="js/grid.js"></script>
+   <script src="js/pulloutpanel.min.js"></script>
+   <script src="js/superfish.js"></script>
+   <script src="js/jquery.fs.naver.min.js"></script>
+   <script src="js/jquery.flexslider.min.js"></script>
+   <script src="js/jquery.isotope.min.js"></script>
+   <script src="js/custom.js"></script>
+    <!-- Preloader -->
+	<script type="text/javascript">
+            $(window).load(function() {
+                $('#status').delay(800).fadeOut('slow');
+                $('#preloader').delay(800).fadeOut('slow');
+                $('body').delay(800).css({'overflow':'visible'});
+            })
+    </script> 
+</body>
+
+<!-- RabinsXP.com HTML5 Templates -->
+</html>
